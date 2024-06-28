@@ -65,6 +65,7 @@ public class TblClienteImp implements ICliente {
 		em.close();
 		//retornamos el listado
 		//nuevo comentario
+		//otro comentario
 		return listado;
 	}// fin ListarCliente
 
