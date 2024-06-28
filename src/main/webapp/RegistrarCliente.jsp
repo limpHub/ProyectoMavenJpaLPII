@@ -26,6 +26,10 @@
 				<td><input type="text" name="Sexo"></td>
 			<tr />
 			<tr>
+				<td>Email</td>
+				<td><input type="text" name="Email"></td>
+			<tr />
+			<tr>
 				<td>Nacionalidad</td>
 				<td><input type="text" name="Nacionalidad"></td>
 			<tr />
